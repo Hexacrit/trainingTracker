@@ -1,7 +1,3 @@
-Here's a sample `README.md` for your Flask CRUD app with user authentication, training tracking, admin features, and password reset functionality:
-
----
-
 # Flask Training Management App
 
 This is a simple CRUD (Create, Read, Update, Delete) web application built with Flask, allowing multiple users to log in and track their completed trainings. The app supports user registration, login, password reset, and administrator features for user management. Users can optionally upload certificates for each completed training.
@@ -138,7 +134,3 @@ The admin role allows users to manage other users and view all training records.
 ## License
 
 This project is licensed under the MIT License.
-
----
-
-Feel free to customize the `README.md` with additional details, such as specific instructions for deploying the app, testing, or contributing to the project.
